@@ -4,27 +4,27 @@ import MealItem from './MealItem/MealItem';
 const DUMMY_MEALS = [
     {
       id: 'm1',
-      name: 'Sushi',
-      description: 'Finest fish and veggies',
-      price: 22.99,
+      name: 'KULFI',
+      description: 'The dense and creamy Indian treat',
+      price: 2,
     },
     {
       id: 'm2',
-      name: 'Schnitzel',
-      description: 'A german specialty!',
-      price: 16.5,
+      name: 'MOCHI',
+      description: 'Rice cakes of mochi dough filled with frozen goodness from Japan',
+      price: 5,
     },
     {
       id: 'm3',
-      name: 'Barbecue Burger',
-      description: 'American, raw, meaty',
-      price: 12.99,
+      name: 'FROZEN YOGURT',
+      description: 'Classic fro-yo sprinkled with whatever your sweet tooth craves',
+      price: 3,
     },
     {
       id: 'm4',
-      name: 'Green Bowl',
-      description: 'Healthy...and green...',
-      price: 18.99,
+      name: 'ITALIAN ICE',
+      description: 'The love derived from the Sicilian granita',
+      price: 5,
     },
   ];
 
